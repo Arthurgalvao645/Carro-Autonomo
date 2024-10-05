@@ -1,6 +1,6 @@
-# Ve-culo-Aut-nomo
+# Veiculo-Autonomo
 Este repositório contém o código e os recursos para o desenvolvimento de um veículo autônomo, projetado para operar de maneira segura. O objetivo deste projeto é integrar tecnologias de percepção, tomada de decisão e controle, permitindo que o veículo navegue sem intervenção humana.
-**Funcionalidades
+# Funcionalidades
 Navegação Autônoma: Utiliza algoritmos de planejamento de caminho para navegar em tempo real.
 Percepção do Ambiente: Implementa sensores (LiDAR, câmeras, GPS) para detecção de obstáculos e mapeamento do ambiente.
 Aprendizado de Máquina: Modelos de aprendizado profundo para reconhecimento de sinais de trânsito e interpretação de cenas.
