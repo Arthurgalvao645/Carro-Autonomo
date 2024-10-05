@@ -1,6 +1,6 @@
 <h1 align="center">
     # Carro Autonômo
-    <a href="https://www.linkedin.com/in/arthur-galv%C3%A3o-dos-santos-9082581b9/?msgControlName=view_message_button&msgConversationId=2-MGMxYTViMjktZDRiYi00NGI3LTg2ZTgtMzdmNjFjZWJmZDQzXzAxMw%3D%3D&msgOverlay=true">Arthur Galvão 😎😎</a>
+    <a href="msgControlName=view_message_button&msgConversationId=2-MGMxYTViMjktZDRiYi00NGI3LTg2ZTgtMzdmNjFjZWJmZDQzXzAxMw%3D%3D&msgOverlay=true">Carro Autonômo</a>
   </h1>
 # Carro Autonômo
 Este repositório contém o código e os recursos para o desenvolvimento de um veículo autônomo, projetado para operar de maneira segura. O objetivo deste projeto é integrar tecnologias de percepção, tomada de decisão e controle, permitindo que o veículo navegue sem intervenção humana.
