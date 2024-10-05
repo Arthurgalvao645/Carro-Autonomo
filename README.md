@@ -18,4 +18,4 @@ Este repositório contém o código e os recursos para o desenvolvimento de um v
 *Frameworks:* Arduino
 
 # Contato
-*Email:* arthurgsprogramador@gmail.com <arthurgsprogramador@gmail.com>;
+*Email:* <arthurgsprogramador@gmail.com>;
