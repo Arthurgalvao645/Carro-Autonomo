@@ -7,6 +7,8 @@
 
 # Funcionalidades
 *Navegação Autônoma:* Utiliza algoritmos de planejamento de caminho para navegar em tempo real.
+
 *Percepção do Ambiente:* Implementa o sensor ultrassônico para detecção de obstáculos e mapeamento do ambiente.
+
 *Simulação:* Ambiente de simulação para testes e validação do desempenho do veículo antes do uso no mundo real.
 
