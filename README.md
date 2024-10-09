@@ -22,3 +22,6 @@ Este repositório contém o código e os recursos para o desenvolvimento de um v
 
 *Email:* <layse.fmu@gmail.com>;
 
+# Colaboradores
+*Feito por:* Arthur Galvão dos Santos e Layse Sena Baptista
+
